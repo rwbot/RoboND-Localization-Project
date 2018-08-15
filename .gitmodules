@@ -1,0 +1,4 @@
+[submodule "shelly"]
+	url = https://github.com/rwbot/shelly.git
+[submodule "udacity_bot"]
+	url = https://github.com/rwbot/udacity_bot.git
